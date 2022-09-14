@@ -19,6 +19,7 @@ applist = {
     {shortcut = 'Z',appname = 'Calculator'},
     {shortcut = 'W',appname = 'Wechat'},
     {shortcut = 'M',appname = 'QQMusic'},
+    {shortcut = 'V',appname = 'Visual Studio Code'},
 }
 
 fnutils.each(applist, function(entry)
